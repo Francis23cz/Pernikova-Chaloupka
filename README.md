@@ -4,6 +4,7 @@
 
 RDR2 Online private server
 "https://servers.redm.net/servers/detail/gl67bq"
+
 Discord SERVER 
 "https://discord.com/channels/1286776106665640016/1290074469616058421"
 
